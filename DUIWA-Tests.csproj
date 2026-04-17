@@ -31,7 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Team01-DUIWA\Team01-DUIWA.csproj" />
+    <ProjectReference Include="..\S26-CPSC4910-Team01\Team01-DUIWA.csproj" />
   </ItemGroup>
 
 </Project>
