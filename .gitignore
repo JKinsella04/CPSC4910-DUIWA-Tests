@@ -8,6 +8,7 @@
 
 # Bin
 bin/Debug/*
+obj/*
 
 # User-specific files
 *.rsuser
